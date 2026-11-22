@@ -1,4 +1,4 @@
-public class Solution {
+public class DistributeCandy {
     public int candy(int[] A) {
         int length = A.length;
         int[] left = new int[length];
